@@ -8,6 +8,6 @@
 
 The laser tag set I used is not sold on Amazon anymore. However, there appear to be look-alikes that probably use the same signals.
 
-If they look like [this](https://amzn.to/3WrO8bt), chances are, they will work:
+If they look like [this](https://amzn.to/3WrO8bt), chances are, it will work:
 
 <img src="laser_tag_set.jpg"/>
